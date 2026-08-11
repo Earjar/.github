@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👂🔊 EARJAR
+# EARJAR
 
 ```
 ∿∿∿ audio gear that sounds as weird as it looks ∿∿∿
@@ -21,9 +21,9 @@ Most gear picks a lane: "professional" or "toy." We don't. Earjar exists to make
 We build across three ranges:
 
 <table>
-<tr><td>🧒</td><td><b>Kids Range</b></td><td>Instruments plus learning material to introduce kids to making music</td></tr>
-<tr><td>🎤</td><td><b>Musicians Range</b></td><td>Custom, collaborative builds made <i>with</i> musicians, for musicians</td></tr>
-<tr><td>🌀</td><td><b>General Range</b></td><td>Cool, weird, genuinely great-sounding synths and audio tools for anyone curious</td></tr>
+<tr><td><b>Kids Range</b></td><td>Instruments plus learning material to introduce kids to making music</td></tr>
+<tr><td><b>Musicians Range</b></td><td>Custom, collaborative builds made <i>with</i> musicians, for musicians</td></tr>
+<tr><td><b>General Range</b></td><td>Cool, weird, genuinely great-sounding synths and audio tools for anyone curious</td></tr>
 </table>
 
 <br>
@@ -32,16 +32,16 @@ We build across three ranges:
 
 `VSTs` `plugins` `synthesizers` `tuners` `learning material`
 
-- 🎛️ **VSTs & plugins**, software instruments and effects
-- 🎹 **Synthesizers**, hardware, unconventional by design
-- 🎸 **Tuners**, and more audio hardware on the way
-- 📚 **Learning material**, built for our Kids Range
+- **VSTs & plugins**, software instruments and effects
+- **Synthesizers**, hardware, unconventional by design
+- **Tuners**, and more audio hardware on the way
+- **Learning material**, built for our Kids Range
 
 Our hardware line is in development. Synths and tuners that don't look like anything else out there, but sound like they belong on your next record.
 
 <br>
 
-## ✨ Why Earjar
+## Why Earjar
 
 - **Carefree design.** Function first, then we make it fun to look at.
 - **Weird on purpose.** Unusual shapes, unusual sounds. Innovation isn't an accident here.
@@ -50,14 +50,14 @@ Our hardware line is in development. Synths and tuners that don't look like anyt
 
 <br>
 
-## 👥 The team
+## The team
 
-- **Kamvelihle Gwijana** · Co-Founder & Lead Software Engineer
-- **Zjak Genis** · Co-Founder & Technical Engineering Lead (design & modeling)
+- **Kamve** · Founder & Lead Software Engineer
+- **Zjak** · Co-Founder & Technical Engineering Lead (design & modeling)
 
 <br>
 
-## 📬 Get in touch
+## Get in touch
 
 Interested in our Musicians Range, want to collaborate, or just want to see what weird thing we're building next? Reach out, we'd love to hear from you.
 
