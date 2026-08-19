@@ -13,7 +13,7 @@ Our stuff is a little strange, a little playful, and built to sound genuinely be
 - **Synthesizers**, hardware, unconventional by design
 - **Libraries**, libraries that other developers can use in their projects
 
-Our hardware line is in development. Synths and tuners that don't look like anything else out there, but sound like they belong on your next record.
+Our hardware line is in development.
 
 <br>
 
