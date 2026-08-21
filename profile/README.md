@@ -20,6 +20,7 @@ Earjar is an audio software and hardware startup building VSTs, plugins, synthes
 
 ![Drawio](https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ## The team
 
 - **Kamve** · Co-Founder & Lead Software Engineer
@@ -27,4 +28,7 @@ Earjar is an audio software and hardware startup building VSTs, plugins, synthes
 
 ## Want to join the team or contribute?
 
-Reach out to us at <earjaraudio@gmail.com>
+<p align="left">
+<a href="https://www.linkedin.com/company/144578070"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:earjaraudio@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"></a>
+</p>
