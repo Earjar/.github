@@ -1,9 +1,6 @@
 # Earjar
 
-Earjar is an audio software and hardware startup building VSTs, plugins, synthesizers, libraries and other gear for anyone who wants to make music.
-Our stuff is a little strange, a little playful, and built to sound genuinely beautiful.
-
-<br>
+Earjar is an audio software and hardware startup building VSTs, plugins, synthesizers and libraries (for developers).
 
 ## What we make
 
@@ -15,15 +12,11 @@ Our stuff is a little strange, a little playful, and built to sound genuinely be
 
 Our hardware line is in development.
 
-<br>
-
 ## The team
 
 - **Kamve** · Founder & Lead Software Engineer
 - **Zjak** · Co-Founder & Technical Engineering Lead (design & modeling)
 
-<br>
-
-## Get in touch
+## Want to join the team?
 
 Interested in our Musicians Range, want to collaborate, or just want to see what weird thing we're building next? Reach out, we'd love to hear from you.
