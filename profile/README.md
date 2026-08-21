@@ -10,13 +10,13 @@ Earjar is an audio software and hardware startup building VSTs, plugins, synthes
 - **Synthesizers**, hardware, unconventional by design
 - **Libraries**, libraries that other developers can use in their projects
 
-Our hardware line is in development.
+## Our stack
 
 ## The team
 
-- **Kamve** · Founder & Lead Software Engineer
+- **Kamve** · Co-Founder & Lead Software Engineer
 - **Zjak** · Co-Founder & Technical Engineering Lead (design & modeling)
 
-## Want to join the team?
+## Want to join the team or contribute?
 
-Interested in our Musicians Range, want to collaborate, or just want to see what weird thing we're building next? Reach out, we'd love to hear from you.
+Reach out to us at <earjaraudio@gmail.com>
