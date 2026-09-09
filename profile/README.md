@@ -1,14 +1,14 @@
 # Earjar
 
-Earjar is an audio software and hardware startup building VSTs, plugins, synthesizers and libraries (for developers).
+Earjar is an audio software and hardware startup building music gear.
 
 ## What we make
 
 `VSTs` `plugins` `synthesizers` `libraries`
 
-- **VSTs & plugins**, software instruments and effects
-- **Synthesizers**, hardware, unconventional by design
-- **Libraries**, libraries that other developers can use in their projects
+- Software instruments and effects
+- Hardware, unconventional by design
+- Libraries that other developers can use in their projects
 
 ## Our stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
