@@ -1,6 +1,7 @@
 # Earjar
 
 Earjar is an audio software and hardware startup building music gear.
+We're a small team of engineers trying to bridge the gap between sound and technology :)
 
 ## What we make
 
@@ -11,7 +12,7 @@ Earjar is an audio software and hardware startup building music gear.
 - Libraries that other developers can use in their projects
 
 ## Our stack
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -23,13 +24,13 @@ Earjar is an audio software and hardware startup building music gear.
 
 ## The team
 
-- **Kamve** · Lead Software Engineer & Sound Designer
+- **Kamve (Founder)** · Software Engineer & Audio Programmer
 - **Zjak** · Technical Design Engineer
 - **Neo** · Software Engineer & Microservices
 
 ## Want to join the team or contribute?
 
 <p align="left">
-<a href="https://www.linkedin.com/company/144578070"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:earjaraudio@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/company/144578070"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:earjaraudio@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"></a>
 </p>
