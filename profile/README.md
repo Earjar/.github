@@ -23,8 +23,9 @@ Earjar is an audio software and hardware startup building music gear.
 
 ## The team
 
-- **Kamve** · Co-Founder & Lead Software Engineer
-- **Zjak** · Co-Founder & Technical Engineering Lead (design & modeling)
+- **Kamve** · Lead Software Engineer & Sound Designer
+- **Zjak** · Technical Design Engineer
+- **Neo** · Software Engineer & Microservices
 
 ## Want to join the team or contribute?
 
