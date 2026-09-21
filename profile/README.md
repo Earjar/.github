@@ -26,7 +26,7 @@ We're a small team of engineers trying to bridge the gap between sound and techn
 
 - **Kamve (Founder)** · Software Engineer & Audio Programmer
 - **Zjak** · Technical Design Engineer
-- **Neo** · Software Engineer & Microservices
+- **Neo** · Collaborator (Microservices)
 
 ## Want to join the team or contribute?
 
