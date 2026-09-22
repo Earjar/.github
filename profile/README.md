@@ -4,6 +4,8 @@ Earjar is an audio software and hardware startup building music gear.
 We're a small team of engineers trying to bridge the gap between sound and technology :)
 
 ## What we make
+`VSTs` `plugins` `synthesizers` `libraries`
+
 - Software instruments and effects
 - Hardware, unconventional by design
 - Libraries that other developers can use in their projects
