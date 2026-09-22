@@ -3,7 +3,7 @@
 Earjar is an audio software and hardware startup building music gear.
 We're a small team of engineers trying to bridge the gap between sound and technology :)
 
-## What we make
+## What we make ![snoopy](https://www.mediumpopcorn.com/episodes/snoopys-reunion)
 
 `VSTs` `plugins` `synthesizers` `libraries`
 
