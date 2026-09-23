@@ -31,6 +31,5 @@ We're a small team of engineers trying to bridge the gap between sound and techn
 ## Want to join the team or contribute?
 
 <p align="left">
-  <a href="https://www.linkedin.com/company/144578070"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:earjaraudio@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"></a>
 </p>
