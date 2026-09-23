@@ -23,10 +23,10 @@ We're a small team of engineers trying to bridge the gap between sound and techn
 
 ## The team
 
-- **Kamve** · Lead Software Engineer, UI Components & Code Maintainer
-- **Zjak** · Technical Lead & Hardware Design
-- **Neo** · Microservices
-- **Prov** · Audio DSP
+- **Kamve** · Software Lead & Code Maintainer
+- **Zjak** · Hardware Design Lead
+- **Neo** · Collaborator (Microservices)
+- **Prov** · Audio Programmer
   
 ## Want to join the team or contribute?
 
