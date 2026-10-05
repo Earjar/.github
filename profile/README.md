@@ -24,7 +24,7 @@ We're a small team of engineers trying to bridge the gap between sound and techn
 ## The team
 
 - **Kamve** · Software Lead & Code Maintainer
-- **Zjak** · Hardware Design Lead
+- **Zjak** · Hardware & Electronics
 - **Neo** · Web Development
 - **Prov** · Audio Programming
 - **Chante** · UI/UX Design
