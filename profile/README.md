@@ -12,7 +12,7 @@ We're a small team of engineers trying to bridge the gap between sound and techn
 
 ## The team
 
-- **Kamve** · Software Lead & Code Maintainer
+- **Kamve (Founder)** · Software Lead, UI Design & Code Maintainer
 - **Prov** · Audio Programming
 - **Zjak** · Hardware & Electronics
 - **Neo** · Collaborator (Web)
