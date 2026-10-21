@@ -1,21 +1,14 @@
 # Earjar
 
-Earjar is an audio software and hardware startup building music gear.
-We're a small team of engineers trying to bridge the gap between sound and technology :)
-
-## What we make
-`VSTs` `plugins` `synthesizers` `libraries`
-
-- Software instruments and effects
-- Hardware, unconventional by design
-- Libraries that other developers can use in their projects
+Earjar Pty Ltd is an audio tech startup based in South Africa.
+We're a small team of engineers trying to bridge the gap between sound and technology.
 
 ## The team
 
-- **Kamve (Founder)** · Software Lead, UI Design & Code Maintainer
-- **Prov** · Audio Programming
-- **Zjak** · Hardware & Electronics
-- **Neo** · Collaborator (Web)
+- **Kamve (Founder)** · Software Lead & UI Design
+- **Prov** · C++ Programmer
+- **Zjak** · Electronics
+- **Neo** · Web Developer
 
 ## Want to join the team or contribute?
 
