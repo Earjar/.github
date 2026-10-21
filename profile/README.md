@@ -6,7 +6,9 @@ We're a small team of engineers trying to bridge the gap between sound and techn
 ## The team
 
 - **Kamve (Founder)** · Software Lead & UI Design
-- **Prov** · C++ Programmer
+
+### Collaborators
+- **Prov** · JUCE C++
 - **Zjak** · Electronics
 - **Neo** · Web Developer
 
