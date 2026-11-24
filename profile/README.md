@@ -1,19 +1,20 @@
-# Earjar
+# Earjar (Pty) Ltd
 
-Earjar (Pty) Ltd is an audio tech startup based in South Africa.
+Earjar is a Proudly South African audio company making plugins, synthesizers, open-source libraries and hardware for anyone who wants to make music. Our tools are a little strange, a little playful, and built to sound genuinely beautiful.
 
 ## The team
 
-- **Kamve (Founder)** · Software Lead & UI Design
+- **Kamve (Founder)** · Software Engineer & UI Design
 
 ### Developers
 - **Prov** · JUCE C++
-- **Neo** · Web Developer
+- **Neo** · Collaborator
 
 ### Hardware
 - **Zjak** · Electronics
   
 ### Currently looking for
+- Electronics Engineer
 - 2D & 3D Designer
   
 ## Want to join the team or contribute?
